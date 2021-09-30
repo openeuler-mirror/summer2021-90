@@ -1,6 +1,6 @@
 Name:           viewnior
 Version:        1.7
-Release:        1%{?dist}
+Release:        1
 Summary:        Elegant image viewer
 
 License:        GPLv3+
@@ -51,5 +51,5 @@ desktop-file-validate %{buildroot}/%{_datadir}/applications/%{name}.desktop
 
 
 %changelog
-* Mon Jul  6 2021 weiwei245 <weiqi_wang@126.com>      
+* Thu Sep 30 2021 weiwei245 <weiqi_wang@126.com> - 1.7-1
 - package init

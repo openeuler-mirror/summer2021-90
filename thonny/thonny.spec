@@ -1,6 +1,6 @@
 Name:           thonny
 Version:        3.3.3
-Release:        1%{?dist}
+Release:        1
 Summary:        Python IDE for beginners
 License:        MIT 
 URL:            https://thonny.org
@@ -71,5 +71,5 @@ xvfb-run py.test-3 --pyargs thonny
 
 
 %changelog
-* Mon Jul  6 2021 weiwei245 <weiqi_wang@126.com>      
+* Thu Sep 30 2021 weiwei245 <weiqi_wang@126.com> - 3.3.3-1
 - package init

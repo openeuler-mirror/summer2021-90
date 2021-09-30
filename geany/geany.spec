@@ -3,7 +3,7 @@
 
 Name:      geany
 Version:   1.37.1
-Release:   1%{?dist}
+Release:   1
 Summary:   A fast and lightweight IDE using GTK3
 License:   GPLv2+ and MIT
 URL:       http://www.geany.org/
@@ -125,5 +125,5 @@ EOF
 
 
 %changelog
-* Mon Jul  6 2021 weiwei245 <weiqi_wang@126.com>      
+* Thu Sep 30 2021 weiwei245 <weiqi_wang@126.com> - 1.37.1-1
 - package init

@@ -1,6 +1,6 @@
 Name:           notepadqq
 Version:        1.4.8
-Release:        1%{?dist}
+Release:        1
 Summary:        An advanced text editor for developers
 License:        GPLv3 
 URL:            https://notepadqq.com/
@@ -85,6 +85,6 @@ done
 
 
 %changelog
-* Mon Jul  6 2021 weiwei245 <weiqi_wang@126.com>      
+* Thu Sep 30 2021 weiwei245 <weiqi_wang@126.com> - 1.37.1-1
 - package init
 
