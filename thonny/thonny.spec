@@ -5,6 +5,7 @@ Summary:        Python IDE for beginners
 License:        MIT 
 URL:            https://thonny.org
 Source0:        thonny-3.3.3.tar.gz
+BuildArch:      noarch
 
 BuildRequires:  python3-devel
 BuildRequires:  python3-setuptools
